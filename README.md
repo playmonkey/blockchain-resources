@@ -1,7 +1,7 @@
 # blockchain-resources
 Blockchain Resources
 
-A list of resources on learning about blockchain/ethereum/bitcoin and coding smart contracts in solidity.
+A list of resources on learning about blockchain/ethereum/bitcoin and coding smart contracts in solidity. 
 
 Blockchain
 ==========
@@ -29,7 +29,7 @@ Smart Contracts
     2. WebStorm
     3. Visual Code
     
-  Testing frameworks
+  Testing Frameworks
   ==================
     1. Truffle
     2. Hardhat
