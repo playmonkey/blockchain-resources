@@ -8,3 +8,8 @@ Blockchain
 
 
 
+Bitcoin
+=======
+
+1. Bitcoin forum (a good place to get help) https://bitcointalk.org/index.php
+
