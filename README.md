@@ -13,8 +13,9 @@ Bitcoin
 
   1. Bitcoin forum (a good place to get help) - https://bitcointalk.org/index.php
   2. Bitcoin wiki portal (bookmark) - https://en.bitcoin.it/wiki/Main_Page
-  3. Understanding the bitcoin block header - https://medium.com/fcats-blockchain-incubator/understanding-the-bitcoin-blockchain-header-a2b0db06b515
-  4. Merkle Tree and Bitcoin mining (A good intro)- http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html
+  3. A good intro for beginners - https://learnmeabitcoin.com/technical/target
+  4. Understanding the bitcoin block header - https://medium.com/fcats-blockchain-incubator/understanding-the-bitcoin-blockchain-header-a2b0db06b515
+  5. Merkle Tree and Bitcoin mining (A good intro)- http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html
 
 
 Ethereum
