@@ -1,4 +1,4 @@
-# blockchain-resources
+
 Blockchain Resources
 
 A list of resources learning blockchain/ethereum/bitcoin and coding smart contracts in solidity. I will keep this updated to reflect current/potential regulatory standards on crypto as a whole. WIP...
