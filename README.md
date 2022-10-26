@@ -20,8 +20,8 @@ Ethereum
   2. Ethereum (tutorials/docs, defacto site) - https://ethereum.org/
   
 
-Smart Contracts
-===============
+Solidity Smart Contracts
+========================
 
   IDE's
   =====
@@ -36,6 +36,10 @@ Smart Contracts
     3. Foundry
     4. OpenZepplin
     
+    
+  Other Great Resouces
+  ====================
+    1.  Jean Cvllr (smart contract enginner) - https://github.com/CJ42
     
   Well known Vulns
   ================
