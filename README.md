@@ -36,5 +36,14 @@ Smart Contracts
     3. Foundry
     4. OpenZepplin
     
-  
+    
+  Well known Vulns
+  ================
+    1. Reentracy
+    2. Buffer overflow/underflow
+    
+  Securing Contracts
+  ==================
+    1. Bug bounties
+    
 
