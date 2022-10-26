@@ -49,5 +49,6 @@ Solidity Smart Contracts
   Securing Contracts
   ==================
     1. Bug bounties
+    2. Formal verification of contracts - https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/
     
 
