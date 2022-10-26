@@ -24,5 +24,17 @@ Smart Contracts
 ===============
 
   IDE's
+  =====
     1. Remix (great intro to smart contracts & testing) https://remix.ethereum.org
+    2. WebStorm
+    3. Visual Code
+    
+  Testing frameworks
+  ==================
+    1. Truffle
+    2. Hardhat
+    3. Foundry
+    4. OpenZepplin
+    
+  
 
