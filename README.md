@@ -12,7 +12,7 @@ Bitcoin
 =======
 
   1. Bitcoin forum (a good place to get help) - https://bitcointalk.org/index.php
-  2. Bitcoin wiki portal (great information) - https://en.bitcoin.it/wiki/Main_Page
+  2. Bitcoin wiki portal (bookmark) - https://en.bitcoin.it/wiki/Main_Page
 
 Ethereum
 ========
