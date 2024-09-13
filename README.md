@@ -31,8 +31,20 @@ These resources cover a range of topics from basic concepts to advanced developm
 
 Ethereum
 ========
-  1. Ethereum Foundation (blogs with technical info) - https://ethereum.foundation/
-  2. Ethereum (tutorials/docs, defacto site) - https://ethereum.org/
+
+1. Ethereum Official Website, The main resource for all things Ethereum, including documentation, tools, and updates - https://ethereum.org/
+2. Solidity Documentation, The official documentation for Solidity, the primary programming language for writing Ethereum smart contracts - https://docs.soliditylang.org/en/latest/
+3. Hardhat, A popular development environment and framework for Ethereum software, with tools for testing, debugging, and deploying smart contracts - https://hardhat.org/
+4. Truffle Suite, A well-known development framework for Ethereum with a suite of tools for smart contract development, testing, and deployment - https://www.trufflesuite.com/
+5. Remix IDE, An in-browser IDE for Solidity development and testing, useful for rapid prototyping and debugging - https://remix.ethereum.org/
+6. OpenZeppelin, A library of secure, reusable smart contract components and tools for Ethereum development - https://openzeppelin.com/: 
+7. Ethers.js Documentation](https://docs.ethers.io/v5/)**: Documentation for Ethers.js, a library for interacting with the Ethereum blockchain and smart contracts.
+8. web3.js Documentation](https://web3js.readthedocs.io/en/v1.5.2/)**: Documentation for web3.js, a library for interacting with the Ethereum blockchain from web applications.
+9. Infura, A service providing scalable and reliable access to the Ethereum blockchain, useful for building decentralized applications - https://infura.io/ 
+10. Alchemy, A platform offering Ethereum infrastructure and developer tools, including APIs and analytics - https://www.alchemy.com/: 
+11. Ethereum Foundation (blogs with technical info) - https://ethereum.foundation/
+
+These resources should provide a solid foundation for Ethereum development, from coding and testing to deploying and interacting with the blockchain.
   
 
 
