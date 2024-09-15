@@ -6,7 +6,16 @@ A list of resources learning blockchain/ethereum/bitcoin and coding smart contra
 Blockchain
 ==========
 
-
+  1. Building a Blockchain in Python, https://www.freecodecamp.org/news/how-to-build-a-blockchain-in-python/
+  2. A Developer's Guide to Building a Blockchain, https://www.prolitus.com/create-your-own-blockchain-from-scratch-a-comprehensive-guide/
+  3. Blockchain Tutorial for Developers, https://www.ibm.com/topics/blockchain-tutorial-for-developers
+  4. The Ultimate Guide to Blockchain Development, https://www.consensys.net/blog/developers/the-ultimate-guide-to-blockchain-development/
+  5. Create Your Own Blockchain, https://www.instructables.com/Create-your-own-Blockchain/
+  6. Blockchain Explained: How It Works, Its History and Its Applications, https://www.forbes.com/advisor/investing/blockchain-explained/
+  7. A History of Blockchain Technology, https://www.entrepreneur.com/article/432435
+  8. A Brief History of Blockchain, https://www.investopedia.com/tech/history-blockchain/
+  9. A Comprehensive History of Blockchain Technology, https://www.techtarget.com/searcherp/definition/blockchain-a-comprehensive-history
+  10. Build Your Own Blockchain: A Beginner's Guide, https://www.udemy.com/course/build-your-own-blockchain-a-beginners-guide/
 
 Bitcoin
 =======
