@@ -16,6 +16,7 @@ Blockchain
   8. A Brief History of Blockchain, https://www.investopedia.com/tech/history-blockchain/
   9. A Comprehensive History of Blockchain Technology, https://www.techtarget.com/searcherp/definition/blockchain-a-comprehensive-history
   10. Build Your Own Blockchain: A Beginner's Guide, https://www.udemy.com/course/build-your-own-blockchain-a-beginners-guide/
+  11. How To Build A Blockchain App with Ethereum, Web3.js & Solidity Smart Contracts: https://www.dappuniversity.com/articles/how-to-build-a-blockchain-app
 
 Bitcoin
 =======
