@@ -17,7 +17,9 @@ Blockchain
   9. A Comprehensive History of Blockchain Technology, https://www.techtarget.com/searcherp/definition/blockchain-a-comprehensive-history
   10. Build Your Own Blockchain: A Beginner's Guide, https://www.udemy.com/course/build-your-own-blockchain-a-beginners-guide/
   11. How To Build A Blockchain App with Ethereum, Web3.js & Solidity Smart Contracts: https://www.dappuniversity.com/articles/how-to-build-a-blockchain-app
-
+  12.  Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course: https://www.youtube.com/watch?v=gyMwXuJrbJQ
+       A great resource if you are starting out on your blockchain journey.
+       
 Bitcoin
 =======
 
