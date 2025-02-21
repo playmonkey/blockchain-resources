@@ -19,6 +19,7 @@ Blockchain
   11. How To Build A Blockchain App with Ethereum, Web3.js & Solidity Smart Contracts: https://www.dappuniversity.com/articles/how-to-build-a-blockchain-app
   12.  Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course: https://www.youtube.com/watch?v=gyMwXuJrbJQ
        A great resource if you are starting out on your blockchain journey.
+  13. What Are AI Agents? How Autonomous Programs are Transforming Crypto (Great read on AI agents and blockchains) - https://decrypt.co/resources/what-are-ai-agents-how-autonomous-programs-are-transforming-cryptocurrency
        
 Bitcoin
 =======
@@ -38,7 +39,6 @@ Bitcoin
   8. BitcoinJS (JavaScript Bitcoin library) - https://github.com/bitcoinjs/bitcoinjs-lib
   9. Bitcoin Optech (Technical resources for Bitcoin projects) - https://bitcoinops.org/
   10. Blockchain Explorer APIs (e.g., Blockchain.info API) - https://www.blockchain.com/api
-  11. What Are AI Agents? How Autonomous Programs are Transforming Crypto (Great read on AI agents and blockchains) - https://decrypt.co/resources/what-are-ai-agents-how-autonomous-programs-are-transforming-cryptocurrency
 
 These resources cover a range of topics from basic concepts to advanced development techniques, providing documentation, code repositories, community forums, and practical tools for Bitcoin developers. 
 
