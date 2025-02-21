@@ -38,6 +38,7 @@ Bitcoin
   8. BitcoinJS (JavaScript Bitcoin library) - https://github.com/bitcoinjs/bitcoinjs-lib
   9. Bitcoin Optech (Technical resources for Bitcoin projects) - https://bitcoinops.org/
   10. Blockchain Explorer APIs (e.g., Blockchain.info API) - https://www.blockchain.com/api
+  11. What Are AI Agents? How Autonomous Programs are Transforming Crypto (Great read on AI agents and blockchains) - https://decrypt.co/resources/what-are-ai-agents-how-autonomous-programs-are-transforming-cryptocurrency
 
 These resources cover a range of topics from basic concepts to advanced development techniques, providing documentation, code repositories, community forums, and practical tools for Bitcoin developers. 
 
